@@ -1,0 +1,24 @@
+# Godot Engine
+.godot/
+*.exe
+*.apk
+*.aar
+*.import/
+export.json
+export_presets.cfg
+.mono/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project files
+user_data/
+.env
